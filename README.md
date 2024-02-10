@@ -1,4 +1,4 @@
-# Flutter ecommerce sample app
+# Flutter ecommerce app template
 
 A new Flutter project.
 
